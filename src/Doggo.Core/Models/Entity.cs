@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Test
+namespace Doggo
 {
     public class Entity : IEntity<long>
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Test
+namespace Doggo
 {
     public class Community : Entity, ICommunity<long>
     {

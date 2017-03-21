@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Test
+namespace Doggo
 {
     public interface IConnection<TId>
     {

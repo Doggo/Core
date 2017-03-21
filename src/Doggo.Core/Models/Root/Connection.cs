@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Test
+namespace Doggo
 {
     public class Connection : Entity, IConnection<long>
     {

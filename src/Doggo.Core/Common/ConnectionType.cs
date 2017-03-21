@@ -1,4 +1,4 @@
-﻿namespace Test
+﻿namespace Doggo
 {
     public enum ConnectionType
     {

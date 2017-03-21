@@ -1,4 +1,4 @@
-﻿namespace Test
+﻿namespace Doggo
 {
     public interface IEntity<TId>
     {
